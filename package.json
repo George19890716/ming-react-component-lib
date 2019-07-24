@@ -1,8 +1,12 @@
 {
   "name": "ming-react-component-lib",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is react components lib created by Ming Xu (George)",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/George19890716/ming-react-component-lib.git"
+  },
   "scripts": {
     "dev": "start-storybook -p 9009",
     "build": "babel src --out-dir lib --copy-files",
